@@ -13,7 +13,15 @@
 			<a href="/" class="navbar-brand">Inicio</a>
 			<div class="collapse navbar-collapse">
 				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
-			        
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="#">Enfermedades</a>
+			        </li>
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="#">Derecho Internacional</a>
+			        </li>
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="#">Bibliografia</a>
+			        </li>
 			    </ul>
 			</div>
 		</div>
@@ -21,8 +29,8 @@
 	<div  class="container col-md-10 mt-5">
 		<nav aria-label="breadcrumb">
 			<ol class="breadcrumb">
-		    	<li class="breadcrumb-item"><a href="/">Home</a></li>
-		    	<li class="breadcrumb-item active" aria-current="page">Sistema & modelos de salud</li>
+		    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>
+		    	<li class="breadcrumb-item active" aria-current="page">Sistema y Modelos de Salud</li>
 		  	</ol>
 		</nav>
 		<a href="/" class="btn btn-outline-primary" role="button">Atras</a>
@@ -44,22 +52,43 @@
 				</ul>
 				<div class="tab-content" id="myTabContent">
 					<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+						<br />
+						<center><h4>DEFINICIÓN</h4></center>
+						<div class="row">
+							<div class="col-md-6">
+								<hr />
+								<div class="justify-content">
+									Los modelos de atención en salud hacen referencia a la forma en que los componentes de cada sistema son organizados con objeto de contribuir a su función, que es mejorar la salud.
+								</div>
+							</div>
+							<div class="col-md-6">
+								<hr />
+								<div class="justify-content">
+									Estos modelos abarcan todas las organizaciones, instituciones y recursos que tienen como finalidad el mejorar la salud.
+								</div>
+							</div> 
+						</div>
+					</div>
+					<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 						<div class="row">
 							<div class="col-md-6 mt-5">
-								<iframe width="560" height="315" src="https://www.youtube.com/embed/8Lj1WWO_4hw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<center><strong>MODELO DE SALUD/SANITARIO</strong></center>
+								<hr />
+								<center><img src="../public/media/libros.png" width="400" height="400"></center>
 								<div class="justify-content">
-									Modelo de salud/sanitario: Es el conjunto de criterios doctrinales e ideológicos en los que están basados los sistemas sanitarios.
+									Es el conjunto de criterios doctrinales e ideológicos en los que están basados los sistemas sanitarios.
 								</div>
 							</div>
 							<div class="col-md-6 mt-5">
-								<iframe width="560" height="315" src="https://www.youtube.com/embed/8Lj1WWO_4hw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<center><strong>SISTEMA DE SALUD/SANITARIO</strong></center>
+								<hr />
+								<center><img src="../public/media/hospital.png" width="400" height="400"></center>
 								<div class="justify-content">
-									Sistema de salud/sanitario: Es la suma de todas las organizaciones, instituciones y recursos destinados a la operatividad y ejecución de un modelo
+									Es la suma de todas las organizaciones, instituciones y recursos destinados a la operatividad y ejecución de un modelo
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">diferen</div>
 					<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
 						<div class="mt-5">
 							<div class="row">

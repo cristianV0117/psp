@@ -14,7 +14,16 @@
 			<div class="collapse navbar-collapse">
 				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="/resources/modelSystemHealthView.html">Modelos y sistemas de salud</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/modelSystemHealthView.php">Modelos y Sistemas de Salud</a>
+			        </li>
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="#">Enfermedades</a>
+			        </li>
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="#">Derecho Internacional</a>
+			        </li>
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="#">Bibliografia</a>
 			        </li>
 			    </ul>
 			</div>
@@ -32,16 +41,16 @@
 	                				<div class="card" style="width: 10rem;">
 									  <img src="public/media/colombia.png" class="card-img-top" alt="...">
 									  <div class="card-body">
-									    <h5 class="card-title">Colombia</h5>
+									    <center><h5 class="card-title">Colombia</h5></center>
 									    <div class="d-grid gap-2">
-									    	<a href="#" class="btn btn-success">Ver</a>
+									    	<a href="/resources/colombiaView.php" class="btn btn-success">Ver</a>
 									    </div>
 									  </div>
 									</div>
 									<div class="card ms-3" style="width: 10rem;">
 									  <img src="public/media/peru.png" class="card-img-top" alt="...">
 									  <div class="card-body">
-									    <h5 class="card-title">Perú</h5>
+									    <center><h5 class="card-title">Perú</h5></center>
 									    <div class="d-grid gap-2">
 									    	<a href="#" class="btn btn-success">Ver</a>
 									    </div>
@@ -50,7 +59,7 @@
 									<div class="card ms-3" style="width: 10rem;">
 									  <img src="public/media/ecuador.png" class="card-img-top" alt="...">
 									  <div class="card-body">
-									    <h5 class="card-title">Ecuador</h5>
+									    <center><h5 class="card-title">Ecuador</h5></center>
 									    <div class="d-grid gap-2">
 									    	<a href="#" class="btn btn-success">Ver</a>
 									    </div>
