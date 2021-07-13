@@ -23,7 +23,7 @@
 			          <a class="nav-link active" aria-current="page" href="#">Derecho Internacional</a>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Bibliografia</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/bibliographyView.php">Bibliografia</a>
 			        </li>
 			    </ul>
 			</div>
@@ -54,6 +54,15 @@
 				  	</li>
 				  	<li class="nav-item" role="presentation">
 				    	<button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#entitie" type="button" role="tab" aria-controls="entitie" aria-selected="false">Tipos de entidades</button>
+				  	</li>
+				  	<li class="nav-item" role="presentation">
+				    	<button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#right" type="button" role="tab" aria-controls="right" aria-selected="false">Derechos y deberes</button>
+				  	</li>
+				  	<li class="nav-item" role="presentation">
+				    	<button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#medicine" type="button" role="tab" aria-controls="medicine" aria-selected="false">Medicamentos</button>
+				  	</li>
+				  	<li class="nav-item" role="presentation">
+				    	<button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#map" type="button" role="tab" aria-controls="map" aria-selected="false">Mapa conceptual</button>
 				  	</li>
 				</ul>
 				<div class="tab-content" id="myTabContent">
@@ -229,6 +238,135 @@
 									Es el conjunto de instituciones y procedimientos mediante los cuales el Estado garantiza la prestación de servicios de salud a los colombianos, cuyo objetivo es regular el servicio público esencial de salud y crear condiciones de acceso en toda la población al servicio en todos los niveles de atención.
 								</div>
 							</div> 
+						</div>
+				  	</div>
+				  	<div class="tab-pane fade" id="right" role="tabpanel" aria-labelledby="contact-tab">
+				  		<div class="row mt-4">
+				  			<center><strong>DERECHOS</strong></center>
+							<hr />
+				  			<div class="col-md-4">
+				  				<ul>
+				  					<li>Acceder a las actividades, procedimientos, intervenciones, insumos y medicamentos incluidos o no en el PBS.</li>
+				  					<li>Protección especial a niñas y niños.</li>
+				  					<li>Recibir la atención de urgencias que sea requerida con la oportunidad que su condición amerite sin que sea exigible documento o cancelación de pago previo alguno, ni que sea obligatoria la atención en una institución prestadora de la red definida por la EPS.</li>
+				  					<li>Recibir un trato digno en el acceso a los servicios de salud.</li>
+				  					<li>Aceptar o rechazar procedimientos, por sí mismo, o en caso de inconsciencia, incapacidad para decidir o minoría de edad, por sus familiares o representantes, dejando expresa constancia en los posible escrita de su decisión.</li>
+				  					<li>Recibir los servicios de salud en condiciones de habitabilidad, higiene, seguridad y respeto a su intimidad.</li>
+				  					<li>Agotar las posibilidades razonables de tratamiento para la superación de su enfermedad y recibir la mejor asistencia médica disponible por el personal de la salud competente y autorizado para su ejercicio.</li>
+				  					<li>Ser respetado en su voluntad de aceptar o rehusar la donación de sus órganos para que estos sean trasplantados a otros enfermos.</li>
+				  					<li>Recibir la valoración científica y técnica por parte de la EPS, cuando del concepto del médico externo de un profesional de la salud reconocido, se considere que la persona requiere dicho servicio.</li>
+				  					<li>Acceder a los servicios de salud de acuerdo con el principio de integralidad.</li>
+				  				</ul>
+				  			</div>
+				  			<div class="col-md-4">
+				  				<ul>
+				  					<li>Recibir las prestaciones económicas por licencia o incapacidad.</li>
+				  					<li>Acceder a las pruebas y exámenes diagnósticos indispensables para determinar si requiere o no un servicio de salud.</li>
+				  					<li>Los pagos moderadores no pueden constituir barreras al acceso a los servicios de salud para las personas que no tienen capacidad económica de acuerdo con la estratificación socioeconómica.</li>
+				  					<li>A que los familiares o representantes consientan o rechacen procedimientos o tratamientos, en caso de incapacidad para decidir o minoría de edad del paciente.</li>
+				  					<li>Mantener la confidencialidad de su información clínica, sin perjuicio de la posibilidad de acceso a la historia con su autorización o por parte de las autoridades competentes en las condiciones que la ley determine.</li>
+				  					<li>Recibir información sobre los canales para presentar peticiones, reclamos, quejas y sugerencias.</li>
+				  					<li>Elegir el asegurador, el médico y, en general, los profesionales de la salud, como también las instituciones que presenten el servicio dentro de la oferta disponible.</li>
+				  					<li>Morir con dignidad y respeto de su voluntad de permitir que el proceso de la muerte siga su curso natural en la fase terminal de su enfermedad.</li>
+				  					<li>Recibir protección especial cuando se padecen enfermedades catastróficas o de alto costo, lo que implica el acceso oportuno a los servicios de salud y la prohibición de que bajo ningún pretexto se pueda dejar de atender a la persona, ni puedan cobrársele copagos.</li>
+				  					<li>Recibir por escrito, del prestador, las razones por las cuales el servicio no será prestado, cuando se presente dicha situación.</li>
+				  				</ul>
+				  			</div>
+				  			<div class="col-md-4">
+				  				<ul>
+				  					<li>Que la EPS autorice los servicios que requiera y aquellos que requiera con necesidad, incluso si no se encuentran dentro del PBS, con oportunidad, calidad y eficiencia.</li>
+				  					<li>Disfrutar y mantener una comunicación plena y clara con el personal de salud, apropiada a sus condiciones sicológicas y culturales y, en caso de enfermedad, estar informado de los procedimientos y tratamientos que se le vayan a practicar y el pronóstico y riesgos que dicho tratamiento conlleve.</li>
+				  					<li>Revisar y recibir explicaciones acerca de los costos de los servicios obtenidos.</li>
+				  					<li>Recibir durante todo el proceso de la enfermedad, la mejor asistencia médica disponible, respetando los deseos del paciente, incluso en caso de enfermedad irreversible.</li>
+				  					<li>Recibir o rehusar apoyo espiritual o moral, cualquiera sea el culto que profesa o no profesa.</li>
+				  					<li>Ser respetado en su voluntad de participar o no en investigaciones realizadas por el personal científico, siempre y cuando se le haya informado acerca de los objetivos, métodos, posibles beneficios, riesgos previsibles e incomodidades que el proceso investigativo pueda implicar.</li>
+				  					<li>Recibir una segunda opinión por parte de un profesional de la salud en caso de duda.</li>
+				  					<li>Acceder a los servicios de salud sin que la EPS pueda imponer como requisito el cumplimiento de cargas administrativas propias de la entidad.</li>
+				  					<li>A que la EPS autorice y tramite internamente los servicios de salud ordenados por el médico tratante, quien tiene la carga de iniciar dicho trámite.</li>
+				  					<li>Acceder a los bienes y servicios de salud con continuidad.</li>
+				  				</ul>
+				  			</div>
+				  		</div>
+				  		<div class="row mt-4">
+				  			<center><strong>DEBERES</strong></center>
+							<hr />
+							<div class="col-md-6">
+								<ul>
+									<li>Propender por su autocuidado, el de su familia y el de su comunidad.</li>
+									<li>Atender oportunamente las recomendaciones formuladas por el personal de salud y las recibidas en los programas de promoción de la salud y prevención de la enfermedad.</li>
+									<li>Actuar de manera solidaria ante las situaciones que pongan en peligro la vida y la salud de las personas.</li>
+									<li>Respetar al personal responsable de la prestación y administración de los servicios de salud.</li>
+									<li>Usar adecuada y racionalmente las prestaciones ofrecidas por el sistema de salud, así como los recursos del mismo.</li>	
+								</ul>
+							</div>
+							<div class="col-md-6">
+								<ul>
+									<li>Cumplir las normas del sistema de salud.</li>
+									<li>Actuar de buena fe frente al sistema de salud.</li>
+									<li>Suministrar de manera voluntaria, oportuna y suficiente la información que se requiera para efectos de recibir el servicio.</li>
+									<li>Contribuir al financiamiento de los gastos que demande la atención en salud y la seguridad social en salud, de acuerdo con su capacidad de pago.</li>
+								</ul>
+							</div>
+				  		</div>
+				  		<div class="mt-2">
+				  			<hr />
+				  			<center><h4>DEFENSA JURÍDICA DE LOS DERECHOS DE LOS PACIENTES</h4></center>
+							<hr />
+							<div class="row">
+								<div class="col-md-6">
+									<center><strong>ACCIÓN DE TUTELA</strong></center>
+									<hr />
+									<div class="justify-content">
+										Es un mecanismo que poseen todos los ciudadanos para reclamar ante los jueces la protección de sus derechos fundamentales, y que sólo procede cuando no existe otro medio de defensa, o para evitar un juicio irremediable.
+									</div>
+								</div>
+								<div class="col-md-6">
+									<center><strong>FUNCIÓN JURIDISCCIONAL DE LA SUPERINTENDENCIA NACIONAL DE SALUD</strong></center>
+									<hr />
+									<div class="justify-content">
+										Es una especie de “demanda”, pero que no emite el fallo un juez regular, como en el caso de las tutelas, sino unas personas designadas, que en estos casos actúan somo si fueran jueces de la República y tienen el mismo poder que ellos, por lo que emiten fallos vinculantes en derecho.
+									</div>
+								</div>
+							</div>
+				  		</div>
+				  	</div>
+				  	<div class="tab-pane fade" id="medicine" role="tabpanel" aria-labelledby="contact-tab">
+				  		<div class="row mt-4">
+				  			<center><h4>RESOLUCIÓN 2481 DE 2020</h4></center>
+							<hr />
+				  			<div class="col-md-6">
+				  				<div class="justify-content">
+				  					Mediante la Resolución 2481 de 2020 se actualizó el listado de tecnologías incluidas en el Plan de Beneficios en Salud.
+				  				</div>
+				  			</div>
+				  			<div class="col-md-6">
+				  				<div class="justify-content">
+				  					Cuando un medicamento no está incluido en esa resolución, debe realizarse la fórmula médica por medio de la aplicación MIPRES
+				  				</div>
+				  			</div>
+				  		</div>
+				  		<div class="row mt-2">
+				  			<div class="col-md-6">
+				  				<hr />
+				  				<center><strong>PLAN DE BENEFICIOS EN SALUD (PBS)</strong></center>
+				  				<div class="justify-content">
+				  					Es el conjunto de servicios y tecnologías en salud a que tiene derecho todo afiliado al SGSSS y cuya prestación debe ser garantizada por las EPS.
+				  				</div>
+				  			</div>
+				  			<div class="col-md-6">
+				  				<hr />
+				  				<center><strong>MIPRES</strong></center>
+				  				<div class="justify-content">
+				  					Es una herramienta tecnológica diseñada para prescribir servicios y tecnologías NO incluidas en el PBS, que deben ser utilizado por los profesionales de la salud de manera obligatoria
+				  				</div>
+				  			</div>
+				  		</div>
+				 		<hr />
+						<a href="../public/media/resolucionCo.pdf" target="_blank" class="btn btn-outline-primary" role="button">Descargar</a>
+				  	</div>
+				  	<div class="tab-pane fade" id="map" role="tabpanel" aria-labelledby="contact-tab">
+				  		<div class="mt-5">
+							<embed src="../public/media/mapaColombia.pdf" type="application/pdf" width="100%" height="600px" />
 						</div>
 				  	</div>
 				</div>

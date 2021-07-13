@@ -23,7 +23,7 @@
 			          <a class="nav-link active" aria-current="page" href="#">Derecho Internacional</a>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Bibliografia</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/bibliographyView.php">Bibliografia</a>
 			        </li>
 			    </ul>
 			</div>
