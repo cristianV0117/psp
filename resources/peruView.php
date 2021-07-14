@@ -20,7 +20,7 @@
 			          <a class="nav-link active" aria-current="page" href="#">Enfermedades</a>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Derecho Internacional</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/internationalView.php">Derecho Internacional</a>
 			        </li>
 			        <li class="nav-item">
 			          <a class="nav-link active" aria-current="page" href="/resources/bibliographyView.php">Bibliografia</a>
@@ -153,6 +153,45 @@
 								</ol>
 							</li>
 						</ul>
+						<hr />
+						<center><strong>DIFERENCIAS ENTRE LA AFILIACIÓN A ESSALUD, SIS Y EPS</strong></center>
+						<ul>
+							<li>Al estar afiliado a una EPS se tiene la ventaja de que la atención suele ser más rápida y personalizada.</li>
+							<li>Acceso A la red de clínicas asociadas con la EPS, adicional a los hospitales o policlínicos del Estado</li>
+							<li>La diferencia entre ambos sistemas también se refleja en la capacidad de atención con respecto a las redes prestadoras, siendo unas del MINSA y de los gobiernos regionales, de los cuales el 97% corresponden al primer nivel de atención, es decir, de baja complejidad; y en ESSALUD en su propia red, cuyos hospitales son de segundo y tercer nivel.</li>
+						</ul>
+						<hr />
+						<center><strong>NIVELES DE ATENCIÓN</strong></center>
+						<div class="row mt-2">
+							<div class="col-md-4">
+								<hr />
+								<center><strong>Primer nivel de atención</strong></center>
+								<ul>
+									<li>Categoría I-1. Puesto de salud, posta de salud o consultorio con profesionales de salud no médicos.</li>
+									<li>Categoría I-2. Puesto de salud o posta de salud (con médico). Además de los consultorios médicos (con médicos con o sin especialidad).</li>
+									<li>Categoría I-3. Corresponde a los centros de salud, centros médicos, centros médicos especializados y policlínicos</li>
+									<li>Categoría I-4. Agrupan los centros de salud y los centros médicos con camas de internamiento.</li>
+								</ul>
+							</div>
+							<div class="col-md-4">
+								<hr />
+								<center><strong>Segundo nivel de atención</strong></center>
+								<ul>
+									<li>Categoría II-1. El conjunto de hospitales y clínicas de atención general.</li>
+									<li>Categoría II-2. Corresponde a los hospitales y clínicas con mayor especialización.</li>
+									<li>Categoría II-E. Agrupan a los hospitales y clínicas dedicados a la atención especializada.</li>
+								</ul>
+							</div>
+							<div class="col-md-4">
+								<hr />
+								<center><strong>Tercer nivel de atención</strong></center>
+								<ul>
+									<li>Categoría III-1. Agrupan los hospitales y clínicas de atención general con mayores unidades productoras de servicios de salud.</li>
+									<li>Categoría III-E. Agrupan los hospitales y clínicas de atención general con mayores unidades productoras de servicios de salud y servicios en general.</li>
+									<li>Categoría III-2. Corresponden a los institutos especializados</li>
+								</ul>
+							</div>
+						</div>
 					</div>
 					<div class="tab-pane fade" id="types" role="tabpanel" aria-labelledby="profile-tab">
 						<div class="row mt-5">

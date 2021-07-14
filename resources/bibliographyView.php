@@ -20,7 +20,7 @@
 			          <a class="nav-link active" aria-current="page" href="#">Enfermedades</a>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Derecho Internacional</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/internationalView.php">Derecho Internacional</a>
 			        </li>
 			    </ul>
 			</div>

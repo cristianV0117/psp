@@ -17,10 +17,10 @@
 			          <a class="nav-link active" aria-current="page" href="#">Enfermedades</a>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Derecho Internacional</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/internationalView.php">Derecho Internacional</a>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Bibliografia</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/bibliographyView.php">Bibliografia</a>
 			        </li>
 			    </ul>
 			</div>
@@ -114,7 +114,8 @@
 								<div class="col-md-6">
 									<center><strong>Modelo mixto (Bismarck)</strong></center>
 									<br />
-									Aquí el Estado garantiza la prestación del servicio de salud mediante el pago de cuotas que realizan las empresas y los trabajadores
+									Aquí el Estado garantiza la prestación del servicio de salud mediante el pago de cuotas que realizan las empresas y los trabajadores<br />
+									<i>Tanto Colombia, como Perú y Ecuador basan sus sistemas de salud en este modelo sanitario</i>
 								</div>
 								<div class="col-md-6">
 									<center><strong>Modelo mixto (Beveridge)</strong></center>
