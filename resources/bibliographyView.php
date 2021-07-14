@@ -66,37 +66,37 @@
 					</li>
 					<li>
 						<a href="https://www.adres.gov.co/La-Entidad/-Qu%C3%A9-es-la-ADRES">
-							
+							La entidad
 						</a>
 					</li>
 					<li>
 						<a href="https://www.sispro.gov.co/central-prestadores-de-servicios/Pages/MIPRES.aspx - :~:text=MIPRES%20es%20una%20herramienta%20tecnol%C3%B3gica%2cla%20UPC%20o%20servicios%20complementarios">
-							
+							Central prestadores de servicios
 						</a>
 					</li>
 					<li>
 						<a href="https://www.sispro.gov.co/central-prestadores-de-servicios/Pages/MIPRES.aspx - :~:text=MIPRES%20es%20una%20herramienta%20tecnol%C3%B3gica%2cla%20UPC%20o%20servicios%20complementarios">
-							
+							Central prestadores de servicios
 						</a>
 					</li>
 					<li>
 						<a href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1993.html">
-							
+							Senado
 						</a>
 					</li>
 					<li>
 						<a href="https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n No. 2481 de 2020.pdf">
-							
+							Normatividad no. 2481 de 2020
 						</a>
 					</li>
 					<li>
 						<a href="https://www.supersalud.gov.co/es-co/nuestra-entidad/estructura-organica-y-talento-humano/mision-y-vision">
-							
+							Estructura organica y talento humano
 						</a>
 					</li>
 					<li>
 						<a href="https://www.minsalud.gov.co/Documents/Manual de Usuario Modulo Transcripcion v1.0.pdf">
-							
+							Manual de usuario modulo transcripcion
 						</a>
 					</li>
 				</ul>

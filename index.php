@@ -35,7 +35,6 @@
 				<div class="row">
                 	<div class="col-md-12">
                 		<div class="row">
-                			
                 			<div class="col-md-6">
                 				<div class="card-group">
 	                				<div class="card" style="width: 10rem;">
@@ -52,7 +51,7 @@
 									  <div class="card-body">
 									    <center><h5 class="card-title">Perú</h5></center>
 									    <div class="d-grid gap-2">
-									    	<a href="#" class="btn btn-success">Ver</a>
+									    	<a href="/resources/peruView.php" class="btn btn-success">Ver</a>
 									    </div>
 									  </div>
 									</div>
@@ -61,7 +60,7 @@
 									  <div class="card-body">
 									    <center><h5 class="card-title">Ecuador</h5></center>
 									    <div class="d-grid gap-2">
-									    	<a href="#" class="btn btn-success">Ver</a>
+									    	<a href="/resources/ecuadorView.php" class="btn btn-success">Ver</a>
 									    </div>
 									  </div>
 									</div>
