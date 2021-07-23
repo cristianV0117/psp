@@ -17,7 +17,7 @@
 			          <a class="nav-link active" aria-current="page" href="/resources/modelSystemHealthView.php">Modelos y Sistemas de Salud</a>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Enfermedades</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/diseasesView.php">Enfermedades</a>
 			        </li>
 			        <li class="nav-item">
 			          <a class="nav-link active" aria-current="page" href="/resources/internationalView.php">Derecho Internacional</a>
@@ -35,41 +35,29 @@
 				<div class="row">
                 	<div class="col-md-12">
                 		<div class="row">
-                			<div class="col-md-6">
+                			<div class="col-md-12">
                 				<div class="card-group">
 	                				<div class="card" style="width: 10rem;">
-									  <img src="public/media/colombia.png" class="card-img-top" alt="...">
-									  <div class="card-body">
-									    <center><h5 class="card-title">Colombia</h5></center>
-									    <div class="d-grid gap-2">
-									    	<a href="/resources/colombiaView.php" class="btn btn-success">Ver</a>
-									    </div>
-									  </div>
+	                					<a href="/resources/colombiaView.php">
+									  		<img src="public/media/colombia.png" class="card-img-top" alt="...">
+									  	</a>
 									</div>
 									<div class="card ms-3" style="width: 10rem;">
-									  <img src="public/media/peru.png" class="card-img-top" alt="...">
-									  <div class="card-body">
-									    <center><h5 class="card-title">Perú</h5></center>
-									    <div class="d-grid gap-2">
-									    	<a href="/resources/peruView.php" class="btn btn-success">Ver</a>
-									    </div>
-									  </div>
+										<a href="/resources/peruView.php">
+									  		<img src="public/media/peru.png" class="card-img-top" alt="...">
+									  	</a>
 									</div>
 									<div class="card ms-3" style="width: 10rem;">
-									  <img src="public/media/ecuador.png" class="card-img-top" alt="...">
-									  <div class="card-body">
-									    <center><h5 class="card-title">Ecuador</h5></center>
-									    <div class="d-grid gap-2">
-									    	<a href="/resources/ecuadorView.php" class="btn btn-success">Ver</a>
-									    </div>
-									  </div>
+									  <a href="/resources/ecuadorView.php">
+									  	<img src="public/media/ecuador.png" class="card-img-top" alt="...">
+									  </a>	
 									</div>
 								</div>
 								<hr />
 								<img src="public/media/psp.png" class="card-img-top" alt="...">
                 			</div>
                 			<div class="col-md-6"> 
-                				<img class="img-fluid" alt="Responsive image" src="public/media/empresaria.jpg">
+                				
                 			</div>
                 		</div>
                 	</div>
