@@ -187,7 +187,7 @@
 				  	<div class="tab-pane fade" id="entitie" role="tabpanel" aria-labelledby="contact-tab">
 				  		<div class="row mt-4">
 							<div class="col-md-6">
-								<center><strong>ENTIDADES PROMOTORAS DE SALUD (EPS)</strong></center>
+								<center><strong>ENTIDADES PROMOTORAS DE SALUD (EPS) O ENTIDADES ADMINISTRADORAS DE PLANES DE BENEFICIOS (EAPB)</strong></center>
 								<hr />
 								<div class="justify-content">
 									Son las entidades responsables de la afiliación y registro de los afiliados y del recaudo de sus cotizaciones, que actúan como intermediarias y administradoras de los recursos que provee el Estado a través de las UPC, que pueden ser de carácter público como privado, además de ser las responsables de la contratación de toda la red prestadora para garantizar la prestación del servicio en cada entidad.
