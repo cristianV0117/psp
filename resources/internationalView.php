@@ -17,7 +17,7 @@
 			          <a class="nav-link active" aria-current="page" href="/resources/modelSystemHealthView.php">Modelos y Sistemas de Salud</a>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Enfermedades</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/diseasesView.php">Enfermedades</a>
 			        </li>
 			        <li class="nav-item">
 			          <a class="nav-link active" aria-current="page" href="/resources/bibliographyView.php">Bibliografia</a>

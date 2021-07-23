@@ -14,7 +14,7 @@
 			<div class="collapse navbar-collapse">
 				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Enfermedades</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/diseasesView.php">Enfermedades</a>
 			        </li>
 			        <li class="nav-item">
 			          <a class="nav-link active" aria-current="page" href="/resources/internationalView.php">Derecho Internacional</a>

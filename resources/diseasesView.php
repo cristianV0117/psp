@@ -17,7 +17,7 @@
 			          <a class="nav-link active" aria-current="page" href="/resources/modelSystemHealthView.php">Modelos y Sistemas de Salud</a>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active" aria-current="page" href="#">Enfermedades</a>
+			          <a class="nav-link active" aria-current="page" href="/resources/diseasesView.php">Enfermedades</a>
 			        </li>
 			        <li class="nav-item">
 			          <a class="nav-link active" aria-current="page" href="/resources/bibliographyView.php">Bibliografia</a>
@@ -65,12 +65,6 @@
 				<div class="tab-content" id="myTabContent">
 					<div class="tab-pane fade show active" id="hipe" role="tabpanel" aria-labelledby="hipe-tab">
 						<img src="../public/media/hiper.jpg" class="card-img-top" alt="...">
-					</div>
-					<div class="tab-pane fade" id="hemo" role="tabpanel" aria-labelledby="profile-tab">
-						<img src="../public/media/hemo.jpg" class="card-img-top" alt="...">
-					</div>
-					<div class="tab-pane fade" id="escle" role="tabpanel" aria-labelledby="profile-tab">
-						<img src="../public/media/escle.jpg" class="card-img-top" alt="...">
 						<br>
 						<hr>
 						<center><h4>CLASE FUNCIONAL</h4></center>
@@ -104,6 +98,12 @@
 							<li><strong>Presíncope:</strong> sensación inminente y transitoria de pérdida de la consciencia.</li>
 						</ul>
 					</div>
+					<div class="tab-pane fade" id="hemo" role="tabpanel" aria-labelledby="profile-tab">
+						<img src="../public/media/hemo.jpg" class="card-img-top" alt="...">
+					</div>
+					<div class="tab-pane fade" id="escle" role="tabpanel" aria-labelledby="profile-tab">
+						<img src="../public/media/escle.jpg" class="card-img-top" alt="...">
+					</div>
 					<div class="tab-pane fade" id="dege" role="tabpanel" aria-labelledby="profile-tab">
 						<img src="../public/media/dege.jpg" class="card-img-top" alt="...">
 						<img src="../public/media/degedos.jpg" class="card-img-top" alt="...">
@@ -134,6 +134,8 @@
 										Actualiza el listado de enfermedades huérfanas (versión 3.0) y establece condiciones para su uso. Aplica a las Entidades Promotoras de Salud (EPS), a los (sic) Prestadoras de Servicios de Salud, las Entidades que pertenecen al Régimen de Excepción y las direcciones o secretarías de salud de los órdenes distrital, municipal y departamental, o quien haga sus veces.
 									</li>
 								</ul>
+								<hr>
+								<center><a href="../public/media/ColombiaHuer.pdf" class="btn btn-outline-primary" role="button"button>LISTADO</a></center>
 							</div>
 							<div class="col-md-4 mt-4">
 								<center><strong>PERÚ</strong></center>
@@ -164,6 +166,8 @@
 										Que aprueba el Documento Técnico: Listado de Enfermedades Raras y Huérfanas.
 									</li>
 								</ul>
+								<hr>
+								<center><a href="../public/media/PeruHuer.pdf" class="btn btn-outline-primary" role="button"button>LISTADO</a></center>
 							</div>
 							<div class="col-md-4 mt-4">
 								<center><strong>ECUADOR</strong></center>
@@ -174,6 +178,8 @@
 										para incluir el tratamiento de las enfermedades raras, huérfanas y catastróficas.
 									</li>
 								</ul>
+								<hr>
+								<center><a href="../public/media/EcuadorHuer.xls" class="btn btn-outline-primary" role="button"button>LISTADO</a></center>
 							</div>
 						</div>
 					</div>
